@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MiPrimerApp</string>
+    <string name="mensaje">WillKommen</string>
+    <string name="boton">Betreten</string>
+</resources>
