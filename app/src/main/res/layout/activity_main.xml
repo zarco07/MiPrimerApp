@@ -43,7 +43,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="15dp"
         android:textColor="@android:color/background_light"
-        android:textSize="36sp"
+        android:textSize="38sp"
         android:textAlignment="center" />
 
 </RelativeLayout>
